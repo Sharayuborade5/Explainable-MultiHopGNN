@@ -7,6 +7,6 @@ Path Extraction in Neural Bellman-Ford Network (NBFNet): https://docs.google.com
 
 Add layerwise evaluation results (MR, MRR, Hits@K, BCE) in Excel format: https://docs.google.com/document/d/1n8LjgZFl_Rs1cv-pU6Yv5gzPbJeHX23p_LNnNU39rN0/edit?tab=t.0
 
-Excel Sheet: https://docs.google.com/spreadsheets/d/1-pUqo-0WvckPKloswDW0tlrtVtB8p7kB/edit?gid=1900945902#gid=1900945902
+Excel Sheet: https://docs.google.com/spreadsheets/d/1vYcAEHx5SAy2DdQTgtOwLMgm6HcVdDVf/edit?gid=531992607#gid=531992607
 
 nbfnet_path_extraction.py: https://colab.research.google.com/drive/1vRGZdZgUGaVePgl-be0ZP8cI7GroTVJ8

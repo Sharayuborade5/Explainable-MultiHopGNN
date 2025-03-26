@@ -10,3 +10,6 @@ Add layerwise evaluation results (MR, MRR, Hits@K, BCE) in Excel format: https:/
 Excel Sheet: https://docs.google.com/spreadsheets/d/1vYcAEHx5SAy2DdQTgtOwLMgm6HcVdDVf/edit?gid=531992607#gid=531992607
 
 nbfnet_path_extraction.py: https://colab.research.google.com/drive/1vRGZdZgUGaVePgl-be0ZP8cI7GroTVJ8
+- Started running for FB15k.
+- Task completed for 2-layer and 3-layer models.
+- Started for 4-layer model.

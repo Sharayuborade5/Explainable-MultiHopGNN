@@ -13,5 +13,6 @@ nbfnet_path_extraction.py: https://colab.research.google.com/drive/1vRGZdZgUGaVe
 - Started running for FB15k.
 - Task completed for 2-layer and 3-layer models.
 - Started for 4-layer model.
+
 Layer-wise results for NBFNET evaluation: https://docs.google.com/document/d/17qqm006uGU_sTpfbLAVsN83AFQLF_Wt3/edit
 
